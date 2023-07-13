@@ -23,3 +23,4 @@
 ![이미지](https://images.velog.io/images/ccmmss98/post/4de24da3-70a1-4a57-8df8-7d8bd8ef2b70/saffy.png)
 - SSAFY 성공적인 **수료** 
 - 외국에서 한 달이상 살아보기
+- 코딩 마스터되기
