@@ -1,26 +1,51 @@
 # 전재완
 
-## mbti
+## Experience
 
-- ESTP   ESFP의 중간
-## 취미
-- 운동
-    - 등산, 런닝, 수영, 헬스 등등
-- 게임
-    - 같이 할 친구가 있으면 재밌게 합니다.
-- 여행
-    - 여행이면 어디든 좋아합니다.
-- 맛집탐방
-    - 도전하는 것을 좋아하다 보니 새로운 음식에 대해서도 잘 도전합니다.
-- 영화
+💻 SSAFY(Samsung Software Academy For Youth) 10th (2023.07 ~ Now)<br>
 
-## 성격
-- 낙천적
-- 도전하는 것을 좋아한다
+<br/>
 
-## 목표
+## Skill
 
-![이미지](https://images.velog.io/images/ccmmss98/post/4de24da3-70a1-4a57-8df8-7d8bd8ef2b70/saffy.png)
-- SSAFY 성공적인 **수료** 
-- 외국에서 한 달이상 살아보기
-- 코딩 마스터되기
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=Java&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+
+
+<br/><br/><br/>
+
+## Projects
+
+
+
+| Title | Introduction | Languages, etc. |
+| ------------- | ------------- | ------------- |
+| <a href="https://github.com/jaewan96/Explorer">Explorer</a> | Reactor Netty 기반 비동기 게임  | Springboot, Redis, MongoDB, Docker, Reactor Netty |
+| <a href="https://github.com/jaewan96/Perfect-Fit">안쏭맞춤</a> | 사용자 음정 맞춤 노래 서비스 (2024) | Springboot, FastAPI, MySQL |
+| <a href="https://github.com/jaewan96/fodong">fodong</a> | 동화의 등장인물이 되어 보는 동화 연극 서비스 (2024) | JavaScript, React, Face-api |
+
+
+<br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qaz7963)](https://solved.ac/qaz7963)
+
+<br>
+
+
+
+
+
+
+
+
+</div>
